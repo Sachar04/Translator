@@ -5,4 +5,8 @@ import java.util.HashMap;
 import java.util.Iterator;
 
 public record Pair<String>(String left, String right){
+
+//    public deleteEntries(fileNameResId){
+
+  //  }
 }

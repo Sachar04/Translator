@@ -24,6 +24,13 @@ public class DictionaryFileWriter implements AutoCloseable {
         }
     }
 
+    public void clearFile(Dictionary<String> dictionary1) {
+        Iterator<Pair<String>> iterator = dictionary1.iterator();
+        while(iterator.hasNext()) {
+            Pair<String> pair = iterator.next();
+            printWriter.println("");
+        }
+    }
 
     @Override
     public void close() {

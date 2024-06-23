@@ -57,7 +57,7 @@
             android:id="@+id/addEntryButton"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Add an entry" />
+            android:text="Add a dictionary entry" />
 
         <Button
             android:id="@+id/lookUpWordButton"
