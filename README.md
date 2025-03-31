@@ -10,5 +10,5 @@ This is a simple mobile application, where you can choose you preferred dictiona
 #### Remarks
 > 1. This project is completely open-source, and you can use it however you like
 > 2. It lacks some adjustments like better UI Design, or more dictionary entries etc.
-> 3. But, I am not a very expirience with Android-dev, but will maybe perfect this project so it will be at least presentable
+> 3. Though, I am not very expirienced with Android-dev, I will maybe continue and perfect this project so it will be at least presentable
 > 4. If you have suggestions, or found bugs, mistakes etc. please let me know by making a pull request, I will do my best to review and correct everything ASAP
